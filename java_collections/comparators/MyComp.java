@@ -1,5 +1,6 @@
 package comparators;
 
+import java.nio.file.Files;
 import java.util.*;
 
 public class MyComp implements Comparator<String> {
