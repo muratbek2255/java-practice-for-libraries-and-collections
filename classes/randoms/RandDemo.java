@@ -1,5 +1,7 @@
 package randoms;
 
+import java.awt.*;
+import java.awt.event.KeyEvent;
 import java.util.Random;
 
 public class RandDemo {
